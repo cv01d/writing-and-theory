@@ -1,0 +1,83 @@
+# Research Memo: The Objectification Mechanism and the Endurance Asymmetry by CLAUDE FABLE
+## Dehumanization, Infrahumanization, Moral Exclusion, and Workplace Mobbing — Literatures, Tensions, and the Unbuilt Bridge
+
+**Prepared for:** Book 1 research file (*The Age of AI: Life, Liberty, and the Pursuit of Happiness After AI*)
+**Status:** Internal research memo — not for publication
+**Scope:** Maps four literatures relevant to the claim that psychological aggression operates through pre-conscious conversion of persons into trait-objects, that this conversion is targetable by design, and that its victims face an endurance-only condition structurally different from physical aggression.
+
+---
+
+## 1. The Core Claim, Restated for the Record
+
+The working claim: psychological bullying operates through in-group/out-group desensitization in which empathy is not merely withheld but inverted — the target ceases to be processed as a person and becomes an object bearing traits, evaluated as acceptable or unacceptable to the in-group. This evaluation fires pre-consciously, before deliberation, which makes it (a) invisible to the actor, who may never recognize the process in themselves, and (b) targetable by external influence, since a reaction that precedes understanding can be shaped before understanding arrives. Physical aggression has an object and admits force-against-force response; psychological aggression has no object to strike and admits only endurance or exit. The system resists naming this because naming makes it legible, and legibility is the precondition of change.
+
+Each element of this claim has an established literature. What does not exist is the synthesis.
+
+## 2. The Perception Literature: Dehumanization as Failed Person-Processing
+
+The foundational neuroimaging work is Harris and Fiske (2006, *Psychological Science*), operating within Fiske's Stereotype Content Model (SCM), which maps social perception along two dimensions: warmth (perceived intent to help or harm) and competence (perceived capacity to act on that intent). The SCM's prediction — confirmed — is that groups stereotyped as low on both dimensions elicit disgust rather than the prejudices attached to other quadrants, and that this quadrant alone produces dehumanized perception. The neural signature: viewing images of low-warmth/low-competence targets produced *reduced medial prefrontal cortex (mPFC) activation* — the region reliably implicated in social cognition and mentalizing. Harris and Fiske define dehumanization as a failure to *spontaneously* engage the social-cognitive processes required to recognize another individual as a social being. The word "spontaneously" carries the argument: the withdrawal of person-processing is not a decision. It happens upstream of decision. This is direct empirical support for the claim that the objectification fires before deliberation.
+
+The reversibility finding (Harris & Fiske 2007, *SCAN*) matters equally: a task requiring participants to individuate the target — as minimal as asking what food the person might prefer — restored mPFC activity. Forced individuation interrupts the category. This is the neural-level analogue of the structured-proximity mechanism (the Atwater–Ellis charrette in the Book 1 framework): the machinery that withdraws personhood can be re-engaged, but only by intervention that compels the perceiver to encounter the target as a particular mind rather than a trait-bundle.
+
+Adjacent models, to be kept distinct rather than flattened:
+
+**Haslam's dual model** (2006, *Personality and Social Psychology Review*, "Dehumanization: An Integrative Review") distinguishes *animalistic* dehumanization (denial of uniquely human traits — civility, refinement, moral sensibility; target seen as coarse, irrational, childlike) from *mechanistic* dehumanization (denial of human nature traits — warmth, emotionality, agency; target seen as inert, cold, interchangeable). The mechanistic form is the one most relevant to the algorithmic-citizen argument: it is the dehumanization of bureaucracy, of metrics, of persons rendered as data objects — dehumanization without hatred, by indifference.
+
+**Infrahumanization** (Leyens et al. 2000, 2001) is subtler still: out-group members are attributed *secondary emotions* (the uniquely human ones — nostalgia, remorse, hope) to a lesser degree than in-group members, while primary emotions (fear, anger, joy — shared with animals) are attributed equally. No hostility required; the out-group simply gets a shallower inner life. This occurs among ordinary people toward ordinary out-groups.
+
+**Blatant dehumanization** (Kteily, Bruneau, Waytz & Cotterill 2015, *JPSP*, the "Ascent of Man" scale) demonstrated that overt, self-reported dehumanization — placing groups literally lower on the folk-evolutionary diagram — persists in modern samples, predicts aggressive policy support and punitive behavior, and is empirically distinct from mere prejudice.
+
+**Consequential extensions:** Goff, Eberhardt, Williams & Jackson (2008, *JPSP*) linked implicit Black–ape associations to tolerance of police violence; the dehumanization–atrocity pathway is reviewed in Haslam & Loughnan (2014, *Annual Review of Psychology*).
+
+## 3. The Live Fight Inside the Perception Literature (Preserve, Do Not Flatten)
+
+Since 2020, Harriet Over and colleagues have mounted a sustained challenge: much of what the dual model and infrahumanization theory count as "dehumanization" may reduce to *intergroup preference* — the generic tendency to evaluate the in-group more favorably. The key empirical move (Enock, Flavell, Tipper & Over 2021, and subsequent pre-registered studies): when *undesirable* uniquely human traits (corrupt, jealous, bitter) are tested alongside desirable ones, participants attribute the undesirable human traits *more* strongly to out-groups. If out-groups were genuinely seen as less human, they should receive fewer human traits of every valence. They do not. A related Over-group finding (2022, *Scientific Reports*): reduced helping intentions previously attributed to infrahumanization are better explained by simple positive/negative regard.
+
+Status of the dispute: unresolved. Harris and Fiske's neuroimaging claim (failure of spontaneous mentalizing) is partially insulated from the Over critique because it does not rest on trait attribution; the dual model and infrahumanization theory are the primary targets. For Book 1 purposes the dispute is an asset, not a problem: it demonstrates that the field cannot yet distinguish "sees the target as less than a person" from "merely prefers own group" — which is itself evidence for the book's claim that the mechanism operates below the resolution of the actors' (and even the researchers') introspection.
+
+## 4. The Moral-Disengagement and Moral-Exclusion Literatures: How Ordinary Actors License the Mechanism
+
+**Bandura** (1996, 1999; *Moral Disengagement* 2016): moral standards do not restrain conduct automatically; they must be activated, and eight mechanisms deactivate them — moral justification, euphemistic labeling, advantageous comparison, displacement of responsibility, diffusion of responsibility, distortion of consequences, dehumanization, and attribution of blame. Two points for the file. First, *euphemistic labeling* is the linguistic arm of the mechanism — language does not merely report the disengagement, it performs it (connects directly to the Austin/performativity thread already in the book's architecture). Second, *attribution of blame* — recasting the target as the cause of their own treatment — is the signature move of the psychological aggressor and of the systems that protect them.
+
+**Opotow** (1990, *Journal of Social Issues*, "Moral Exclusion and Injustice"): the concept of the *scope of justice* — the psychological boundary within which fairness norms apply. Those outside the boundary can be harmed without the harm registering as injustice; it registers as nothing at all, or as deserved. Moral exclusion is the formal name for "not even a person anymore, but an object with traits acceptable or unacceptable to the in-group." Opotow's severity continuum runs from everyday exclusion (double standards, condescension, denial of others' needs) to atrocity — the everyday end is the workplace end.
+
+**Linguistic intergroup bias** (Maass, Salvi, Arcuri & Semin 1989, *JPSP*; built on Semin & Fiedler's 1988 linguistic category model): identical behavior is described at systematically different abstraction levels depending on the actor's group — positive in-group and negative out-group behavior described abstractly (dispositional: "she is hostile"), negative in-group and positive out-group behavior described concretely (situational: "she raised her voice"). The bias operates without awareness and is measurable in ordinary speech. This is the empirical basis for the claim that word choice is evidence of internal representation regardless of conscious endorsement — lexical selection is downstream of the evaluation, and the evaluation leaks.
+
+## 5. The Endurance Literature: Workplace Mobbing and the Asymmetry of Psychological Aggression
+
+**Leymann** (1990, *Violence and Victims*, "Mobbing and Psychological Terror at Workplaces"; 1996, *EJWOP*) founded the field: mobbing as systematic psychological harassment of a target by one or several others, typically weekly or more often over months, producing severe psychological and occupational consequences. Leymann's stage model runs from critical incident through stigmatization, personnel-administration intervention (where the organization typically sides with the aggressors, converting the target into "the problem"), and expulsion from working life. Key Leymann findings and claims: prevalence around 3.5% of the Swedish workforce; the injury framing — mobbing produces an *injury inflicted over time*, not an illness arising in the person; his estimate that 10–15% of Swedish suicides had workplace bullying in their background; and, with Gustafsson (1996), severely degraded health profiles and PTSD in clinical mobbing samples, with trauma impact comparable to physical assault.
+
+**Einarsen and the Bergen group**: the Negative Acts Questionnaire–Revised as the standard exposure instrument; the definitional consensus that bullying involves repeated negative acts over time against a target who *cannot defend themselves on equal terms* — the power-imbalance criterion is definitional, not incidental, which formalizes the endurance asymmetry: the phenomenon is only classified as bullying when force-against-force response is unavailable. Einarsen and colleagues' oft-cited assessment: exposure to bullying at work is more distressing than all other work-related stressors combined. Nielsen & Einarsen (2012, *Work & Stress* meta-analysis) and the longitudinal literature since: bidirectional relationships between bullying and mental-health outcomes (anxiety, depression, PTSD symptomatology), with prospective Norwegian data partially confirming Leymann's exclusion hypothesis — bullying predicts intention to leave, actual exit, and exclusion from working life via sick leave and disability. Gendered exposure differences appear across samples (e.g., women significantly more often exposed to mobbing behaviors in health-sector data).
+
+The structural point the mobbing literature supplies: psychological aggression is defined by the absence of a strikeable object. Its resolution set is {endure, exit}. Physical aggression is symmetric in kind (force answers force, whatever the odds); psychological aggression is asymmetric in kind — the target cannot return fire because there is nothing to return fire *at*: the aggression is distributed across a group's shared perception, and perception cannot be punched.
+
+## 6. The Unbuilt Bridge (The Book's Opening)
+
+The perception literature (Sections 2–3) studies the mechanism in the scanner and the lab. The mobbing literature (Section 5) studies the epidemiology in the institution. The moral-disengagement literature (Section 4) studies the license. These three barely cite one another. Specifically missing:
+
+First, no sustained account connects *pre-conscious* objectification (Harris & Fiske's spontaneous-processing failure) to the institutional machinery of mobbing — the literatures assume each other but do not integrate. Second, no account treats the pre-conscious character of the mechanism as an *attack surface*: if the trait-evaluation fires before deliberation, then any system capable of shaping the inputs to that evaluation — algorithmic curation, engagement-optimized feeds, reputation systems — can steer whom a population objectifies, at scale, without any individual actor experiencing a decision. This is the algorithmic-citizen thesis stated in social-psychological terms, and the social psychologists have not stated it. Third, Leymann's own methodological thesis — that the phenomenon persisted because it was unnamed, and Swedish state intervention followed only after he forced the naming — is a proof-of-concept for the book's broader claim that legibility precedes reform and that systems structurally resist the research that would make them legible.
+
+## 7. Working Bibliography
+
+Bandura, A. (1999). Moral disengagement in the perpetration of inhumanities. *Personality and Social Psychology Review*, 3(3), 193–209.
+Bandura, A., Barbaranelli, C., Caprara, G. V., & Pastorelli, C. (1996). Mechanisms of moral disengagement in the exercise of moral agency. *JPSP*, 71(2), 364–374.
+Einarsen, S., Hoel, H., & Notelaers, G. (2009). Measuring exposure to bullying and harassment at work: The NAQ-R. *Work & Stress*, 23(1), 24–44.
+Enock, F. E., Flavell, J. C., Tipper, S. P., & Over, H. (2021). No convincing evidence outgroups are denied uniquely human characteristics. *JEP: General* / open-access at PMC8164157.
+Fiske, S. T., Cuddy, A. J. C., Glick, P., & Xu, J. (2002). A model of (often mixed) stereotype content. *JPSP*, 82(6), 878–902.
+Goff, P. A., Eberhardt, J. L., Williams, M. J., & Jackson, M. C. (2008). Not yet human. *JPSP*, 94(2), 292–306.
+Harris, L. T., & Fiske, S. T. (2006). Dehumanizing the lowest of the low: Neuroimaging responses to extreme out-groups. *Psychological Science*, 17(10), 847–853.
+Harris, L. T., & Fiske, S. T. (2007). Social groups that elicit disgust are differentially processed in mPFC. *Social Cognitive and Affective Neuroscience*, 2(1), 45–51.
+Haslam, N. (2006). Dehumanization: An integrative review. *Personality and Social Psychology Review*, 10(3), 252–264.
+Haslam, N., & Loughnan, S. (2014). Dehumanization and infrahumanization. *Annual Review of Psychology*, 65, 399–423.
+Kteily, N., Bruneau, E., Waytz, A., & Cotterill, S. (2015). The ascent of man: Theoretical and empirical evidence for blatant dehumanization. *JPSP*, 109(5), 901–931.
+Leyens, J.-P., et al. (2000). The emotional side of prejudice: The attribution of secondary emotions to ingroups and outgroups. *Personality and Social Psychology Review*, 4(2), 186–197.
+Leymann, H. (1990). Mobbing and psychological terror at workplaces. *Violence and Victims*, 5(2), 119–126.
+Leymann, H. (1996). The content and development of mobbing at work. *EJWOP*, 5(2), 165–184.
+Leymann, H., & Gustafsson, A. (1996). Mobbing at work and the development of post-traumatic stress disorders. *EJWOP*, 5(2), 251–275.
+Maass, A., Salvi, D., Arcuri, L., & Semin, G. R. (1989). Language use in intergroup contexts: The linguistic intergroup bias. *JPSP*, 57(6), 981–993.
+Nielsen, M. B., & Einarsen, S. (2012). Outcomes of exposure to workplace bullying: A meta-analytic review. *Work & Stress*, 26(4), 309–332.
+Opotow, S. (1990). Moral exclusion and injustice: An introduction. *Journal of Social Issues*, 46(1), 1–20.
+Over, H. (2021). Seven challenges for the dehumanization hypothesis. *Perspectives on Psychological Science*, 16(1), 3–13.
+Semin, G. R., & Fiedler, K. (1988). The cognitive functions of linguistic categories in describing persons. *JPSP*, 54(4), 558–568.
+
+*Verification note: entries above reflect the standard citations for these works; page ranges and issue numbers should be spot-checked against the originals before any of this migrates into the manuscript.*
